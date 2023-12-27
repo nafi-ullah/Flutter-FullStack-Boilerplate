@@ -5,7 +5,7 @@ const authRouter = require('./routes/auth'); // import other file in main file t
 
 const PORT = 3000;
 const app = express(); //create express app for creating server
-const DB = "mongodb+srv://nafiullah:SWEswe123@cluster0.p1hgigm.mongodb.net/?retryWrites=true&w=majority";
+const DB = "<You Database URL>";
 
 
 
