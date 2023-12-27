@@ -5,7 +5,7 @@ For flutter I have used provider and shared preference to store and manage the u
 
 ## Getting Started
 
- ###Start the project with following steps: <br>
+### Start the project with following steps: <br>
 i. <code>npm install </code> <br>
 ii. <code> npm i nodemon </code>
 
