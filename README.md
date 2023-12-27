@@ -1,6 +1,6 @@
-# Flutter Boilerplate withn NodeJS and MongoDB
+# Flutter Boilerplate with NodeJS and MongoDB
 
-This is an boiler plate for starting a flutter project with the connectivity of nodejs(JWT token included) and mongoDB. 
+This is a boilerplate for starting a flutter project with the connectivity of nodejs(JWT token included) and mongoDB. 
 For flutter I used provider and shared preference to store and manage the user data.
 
 ## Getting Started
